@@ -1,5 +1,7 @@
 # SQL_Project
 
+### SQL Project 1 ( Sales Data)
+
 ### Overview
 
 #### Total sales for each product category
@@ -59,7 +61,11 @@ GROUP BY product
 ```
 
 
--- ========================== -- End of SQL Analysis -- ==========================
+-- ========================== -- End of SQL project 1 Analysis -- ==========================
+
+
+# SQL Project 2 ( Customer Data)
+
 
 
 
